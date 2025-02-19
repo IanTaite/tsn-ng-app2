@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Ian Taite",
+      "country": "United Kingdom",
+      "avatarUrl": "https://media1-production-mightynetworks.imgix.net/asset/1041f0d0-0682-49a4-86c8-fcb2f1a4d5bc/photo.jpg?ixlib=rails-4.2.0&fm=jpg&q=100&auto=format&w=258&h=258&fit=crop&crop=faces&impolicy=Avatar",
+      "emailAddress": "john.doe@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bonnie Brennan",
+      "country": "Netherlands",
+      "avatarUrl": "https://media1-production-mightynetworks.imgix.net/asset/327e2a51-bb81-47e4-a056-26a8cdafd83f/asset.jpg?ixlib=rails-4.2.0&fm=jpg&q=100&auto=format&w=258&h=258&fit=crop&crop=faces&impolicy=Avatar",
+      "emailAddress": "john.doe@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Pavel Suk",
+      "country": "Austria",
+      "avatarUrl": "https://media1-production-mightynetworks.imgix.net/asset/d77f5503-0cea-4846-8bb6-b540dc1b77c3/1701108235707__1_.jpg?ixlib=rails-4.2.0&fm=jpg&q=100&auto=format&w=258&h=258&fit=crop&crop=faces&impolicy=Avatar",
+      "emailAddress": "john.doe@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Lars Hanisch",
+      "country": "Austria",
+      "avatarUrl": "https://media1-production-mightynetworks.imgix.net/asset/b101c8ce-f1e1-4dae-87e6-6b3d2ba86bae/Avatar_small.jpg?ixlib=rails-4.2.0&fm=jpg&q=100&auto=format&w=258&h=258&fit=crop&crop=faces&impolicy=Avatar",
+      "emailAddress": "john.doe@gmail.com"
+    }
+  ]
+  
