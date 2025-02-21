@@ -3,7 +3,7 @@
 <h1 class="font-bold leading-tight text-gray-900 text-3xl">Our Community</h1>
 
 @if (users?.data) {
-  <div class="flex gap-6 mt-6">
+  <div class="flex gap-6 mt-6 flex-wrap">
     @for (user of users?.data; track user.id) {
       <app-card [user]="user" />
     }
