@@ -14,18 +14,5 @@ import { catchError, map, of, tap } from 'rxjs';
 })
 export class AppComponent {
   private userService = inject(UserService);
-  users$ = this.userService.list().pipe(
-    map((data) => {
-      return {
-        data,
-        error: undefined
-      };
-    }),
-    catchError((error: any) => {
-      return of({
-        data: undefined,
-        error: 'Sorry, could not retrieve the list of community members.'
-      });
-    })
-  );
+  users$ = this.userService.list();
 }
