@@ -22,6 +22,7 @@ export class AppComponent {
       };
     }),
     catchError((error: any) => {
+      console.error(error);
       return of({
         data: undefined,
         error: 'Sorry, could not retrieve the list of community members.'
