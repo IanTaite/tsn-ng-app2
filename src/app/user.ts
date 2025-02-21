@@ -1,4 +1,3 @@
-
 export type User = {
   id: number;
   name: string;
@@ -6,5 +5,3 @@ export type User = {
   country: string;
   emailAddress: string;
 };
-
-export type UserArray = Array<User>;
